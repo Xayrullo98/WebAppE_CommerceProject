@@ -2,8 +2,8 @@ import os
 from datetime import datetime
 import requests
 def download_file_func(warehouse_id,file_name):
-    login = 'farux@meros'
-    password = '2bfba6b3b2af0ccf35dcc4f6166d474cb91266e8'
+    login = ''
+    password = ''
     login_url = 'https://smartup.merospharm.uz/b/core/s$log_in'
 
     headers = {
